@@ -6,9 +6,6 @@ export const signup = async (req,res) => {
     } catch (error) {
         
     }
-
-    // res.send("signup");
-    // console.log("signup");
 }
 
 export const login = (req,res) => {
